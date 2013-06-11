@@ -50,6 +50,7 @@ public class settingListActivity extends FragmentActivity
         }
 
         // TODO: If exposing deep links into your app, handle intents here.
+        //test
     }
 
     /**
