@@ -37,7 +37,7 @@ public class loginActivity extends Activity{
                 {
                     //successful go to the main activity
                     Toast.makeText(loginActivity.this, "Login Successful",Toast.LENGTH_LONG).show();
-                    Intent intent = new Intent(loginActivity.this, settingListActivity.class);
+                    Intent intent = new Intent(loginActivity.this, settingActivity.class);
                     startActivity(intent);
                 }
                 else

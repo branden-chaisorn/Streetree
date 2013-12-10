@@ -3,5 +3,9 @@
 
     <string name="app_name">Streetree</string>
     <string name="title_setting_detail">setting Detail</string>
+    <string name="trail_map">Map</string>
+    <string name="map_description">Map to mark your favorite trails!</string>
+    <string name="my_location">My Location</string>
+    <string name="race_activity">Start your trail adventure!</string>
 
 </resources>
